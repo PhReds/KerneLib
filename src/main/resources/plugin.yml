@@ -1,0 +1,4 @@
+name: KerneLib
+version: '${project.version}'
+main: me.phredss.kernelib.KerneLib
+api-version: 1.19
